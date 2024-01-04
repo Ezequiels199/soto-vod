@@ -5,7 +5,7 @@ const fs = require('fs');
 const path = require('path');
 
 const manifest = {
-    id: 'com.yourmoviestreamsaddon',
+    id: 'Com.yourmoviestreamsaddon',
     version: '1.0.0',
     name: 'Soto Flix',
     description: ' Películas de transmisiones de IPTV',
